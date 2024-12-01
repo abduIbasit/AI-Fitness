@@ -1,0 +1,25 @@
+{
+    "data": {
+        "user_id": "User1",
+        "activity": [
+            {"date": "2024-11-12", "steps": 7500, "calories": 180, "active_minutes": 40},
+            {"date": "2024-11-13", "steps": 8000, "calories": 190, "active_minutes": 42},
+            {"date": "2024-11-14", "steps": 8500, "calories": 200, "active_minutes": 45},
+            {"date": "2024-11-15", "steps": 8700, "calories": 210, "active_minutes": 50},
+            {"date": "2024-11-16", "steps": 9000, "calories": 220, "active_minutes": 55},
+            {"date": "2024-11-17", "steps": 9500, "calories": 230, "active_minutes": 60},
+            {"date": "2024-11-18", "steps": 8000, "calories": 190, "active_minutes": 45},
+            {"date": "2024-11-19", "steps": 8500, "calories": 200, "active_minutes": 48},
+            {"date": "2024-11-20", "steps": 8700, "calories": 210, "active_minutes": 50},
+            {"date": "2024-11-21", "steps": 9500, "calories": 220, "active_minutes": 55},
+            {"date": "2024-11-22", "steps": 8000, "calories": 190, "active_minutes": 45},
+            {"date": "2024-11-23", "steps": 8700, "calories": 210, "active_minutes": 52},
+            {"date": "2024-11-24", "steps": 9000, "calories": 230, "active_minutes": 60}
+        ]
+    },
+"prediction_data": {
+    "day_of_week": 5,
+    "active_minutes": 55,
+    "steps": 9000
+    }
+}

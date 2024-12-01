@@ -1,0 +1,13 @@
+{
+    "user_id": "User1",
+    "journal_entries": [
+        {
+            "date": "2024-11-22",
+            "entry": "I feel really anxious about the upcoming presentation. It's overwhelming."
+        },
+        {
+            "date": "2024-11-21",
+            "entry": "Had a great day today! Felt accomplished after finishing all my tasks."
+        }
+    ]
+}
